@@ -1,4 +1,13 @@
-## Hi there 👋
+const jegath = {
+  name: "Jegath M",
+  education: "BCA, Loyola College of Arts and Science (2022-2026)",
+  location: "Salem, Tamil Nadu, India",
+  languages: ["English", "Tamil"],
+  interests: ["Web Development", "Software Development", "Databases"],
+  currentlyLearning: ["React", "PHP", "SQL"],
+  strengths: ["Quick Learner", "Teamwork", "Problem Solving", "Time Management"],
+  lookingFor: "Growth-oriented team where I can learn and contribute 🚀"
+};
 
 <!--
 **Jegath-codes/Jegath-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
