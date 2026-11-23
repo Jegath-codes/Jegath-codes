@@ -21,24 +21,6 @@
 
 ---
 
-## 🌐 Connect With Me (Social Media & Coding Profiles)
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://jegath-codes.github.io/Jegath-codes-/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jegath-codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_USERNAME)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE_HANDLE)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/YOUR_CODEPEN_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/YOUR_HACKERRANK_USERNAME)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 > **Bachelor of Computer Applications (BCA)** graduate with a solid foundation in programming languages, modern web development, and database management. Seeking an entry-level **Web Developer** or **Software Developer** role to build impactful digital products and contribute effectively to organizational growth.
