@@ -23,17 +23,6 @@
 
 ## ✨ About Me
 
-- 🎓 **BCA Graduate (2022–2026)** at **Loyola College of Arts and Science**
-- 💻 **Full-Stack Web Developer** skilled in **HTML5, CSS3, JavaScript, React.js, PHP** & **Java, Python, C++**
-- 🗄️ Experienced in building database-driven web applications using **MySQL & SQL**
-- 🌐 Check out my portfolio: **[jegath-codes.github.io/Jegath-codes-/](https://jegath-codes.github.io/Jegath-codes-/)**
-- 💼 Open to **Software Developer / Web Developer** opportunities
-- 📫 Reach me at **[jegath.mahe@gmail.com](mailto:jegath.mahe@gmail.com)**
-
----
-
-## 🛠️ Tech Stack & Tools
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,css,js,react,php,mysql,git,github,vscode&perline=7" alt="Skill Icons" />
